@@ -1,7 +1,6 @@
 <h1 align="center">Oi, eu sou a Monique!</h1>
 <h3 align="center">Eu amo cachorros 🐶</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
